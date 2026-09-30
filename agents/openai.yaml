@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 286"
+  short_description: "粉彩图腾：上半保留原照，下半把主体收成粉彩超现实的小图腾"
+  default_prompt: "Use $xxd-panel-286 to transform my photograph following the complete canonical source brief."
